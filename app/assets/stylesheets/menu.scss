@@ -14,8 +14,8 @@
     transition: all .25s linear;
     background: #FFF;
     border: 1px solid #CCC;
-    position: absolute;
-    top: -170px;
+    position: fixed;
+    top: 0px;
     z-index: 4;
   }
 }
